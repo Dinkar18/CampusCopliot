@@ -23,6 +23,8 @@ CampusCopilot was built to address everyday operational inefficiencies within ed
 
 ## 🖼️ Screenshots
 
+(screenshots/ss1.)
+    
 
 ## 🚀 Getting Started
 
